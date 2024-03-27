@@ -1,0 +1,5 @@
+# print(  type(1.23)   )
+# print(  type(123)   )
+# print(  type('Natalia')   )
+# print(  type("Natalia")   )
+print( type(123), type(-1.23), type('Naty')   )
