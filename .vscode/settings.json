@@ -1,0 +1,7 @@
+{
+    "editor.find.autoFindInSelection": "always",
+    "diffEditor.codeLens": false,
+    "editor.minimap.enabled": true,
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "scm.alwaysShowRepositories": true
+}
