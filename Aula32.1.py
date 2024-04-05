@@ -1,8 +1,8 @@
-"""
-Faça um programa que exige a hora ao usuário e, baseando-se no horário
-descrito, exiba a saudação correspondente. Ex.
-Bom dia 0-11, Boa tarde 12-17 e Boa noite 18-23.
-"""
+# """
+# Faça um programa que exige a hora ao usuário e, baseando-se no horário
+# descrito, exiba a saudação correspondente. Ex.
+# Bom dia 0-11, Boa tarde 12-17 e Boa noite 18-23.
+# """
 
 entrada = input('Digite a hora em numeros inteiros: ')
 
