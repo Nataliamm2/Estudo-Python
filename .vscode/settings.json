@@ -6,8 +6,8 @@
     "explorer.compactFolders": false,
     "terminal.integrated.fontSize": 24,
     "editor.rulers": [80, 120],
-    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vs-seti",
     "code-runner.executorMap": {
       "python": "clear ; python -u"
     },
